@@ -4,3 +4,4 @@ import './styles/main.scss';
 other();
 
 console.log('Hello World');
+console.log('test');
