@@ -8,11 +8,14 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "dev": "webpack serve"
   },
   "devDependencies": {
     "css-loader": "^6.7.1",
+    "html-loader": "^3.1.0",
     "html-webpack-plugin": "^5.5.0",
+    "raw-loader": "^4.0.2",
     "sass": "^1.49.11",
     "sass-loader": "^12.6.0",
     "style-loader": "^3.3.1",
