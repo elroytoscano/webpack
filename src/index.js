@@ -1,5 +1,6 @@
 import other from './other';
 import './styles/main.scss';
+import './template.html';
 
 other();
 
