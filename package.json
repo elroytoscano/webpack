@@ -1,0 +1,17 @@
+{
+  "name": "webpack-traversy",
+  "version": "1.0.0",
+  "description": "Webpack tutorial by Brad Traversy",
+  "main": "app.js",
+  "repository": "https://github.com/elroytoscano/webpack.git",
+  "author": "Elroy Toscano",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
