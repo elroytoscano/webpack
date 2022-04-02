@@ -33,4 +33,4 @@
 ## Loading assets:
 
 - Add rules: `{ test: /\.(png|svg|jpeg|jpg|gif)$/i, type: 'asset/resource', },`
-- In the output: ` assetModuleFilename: '[name][ext]',`
+- In the output: ` assetModuleFilename: '[name][ext]',`, prevents the asset file from being renamed
