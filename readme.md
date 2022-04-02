@@ -1,4 +1,4 @@
-# Webpack Tutorial by Brad Traversy
+# [Webpack Tutorial by Brad Traversy](https://www.youtube.com/watch?v=IZGNcSuwBZs)
 
 ## HTML, Vanilla JS and Webpack setup
 
